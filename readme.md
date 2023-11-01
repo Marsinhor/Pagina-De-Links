@@ -1,6 +1,6 @@
-<img alt="Foto do Projeto" scr="../github/preview.png">
+<img src="github/preview.png" alt="preview">
 <p align="center">Nesse projeto foram utilizadas as seguinte tecnologias:</p><br>
-<ul align="center">
+<ul>
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
