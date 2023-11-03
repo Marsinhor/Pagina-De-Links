@@ -1,4 +1,4 @@
-<img src="github/preview.png" alt="preview">
+<img src="github/preview-01.png" alt="preview">
 <p align="center">Nesse projeto foram utilizadas as seguinte tecnologias:</p><br>
 <ul>
 <li>HTML</li>
