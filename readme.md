@@ -7,4 +7,4 @@
 <li>Git e Github</li>
 </ul>
 
-<p>CONFIRA <a url="https://marsinhor.github.io/pagina-de-links">AQUI</a></p>
+<p>CONFIRA <a hrefhttps://marsinhor.github.io/pagina-de-links" target="_blank">AQUI</a></p>
